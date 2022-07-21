@@ -1,0 +1,7 @@
+{
+  "env":
+  {
+    "FRONT_END_URL" : "http://localhost:4200",
+    "MONGO_DB_URL" : "mongodb://127.0.0.1:27017"
+  }
+}
